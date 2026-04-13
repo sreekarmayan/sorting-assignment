@@ -21,6 +21,10 @@ Sort an integer array in ascending order and validate using unit tests.
 - Single element
 - Negative numbers
 - Already sorted array
+- Duplicate values
+- Null input (exception handling)
+- All elements same
+- Large numbers
 
 ## How to Run
 
